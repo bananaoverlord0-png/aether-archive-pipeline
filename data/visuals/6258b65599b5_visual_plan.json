@@ -1,0 +1,137 @@
+[
+  {
+    "scene_id": "6258b65599b5_cold_open_01",
+    "section": "cold_open",
+    "prompt": "dark underwater wreck silhouette, teal haze. cinematic dark atmospheric documentary still, 16:9, cold teal and charcoal color grade, soft film grain, atmospheric haze, volumetric light, no readable modern logos, no real-person faces, photoreal or hyper-real architectural and landscape focus.",
+    "aspect_ratio": "16:9",
+    "duration_hint_s": 4.0,
+    "style": "cinematic dark atmospheric documentary still, film grain, teal grade, haze",
+    "asset_path": null
+  },
+  {
+    "scene_id": "6258b65599b5_cold_open_02",
+    "section": "cold_open",
+    "prompt": "corroded bronze fragment on museum table, soft side light. cinematic dark atmospheric documentary still, 16:9, cold teal and charcoal color grade, soft film grain, atmospheric haze, volumetric light, no readable modern logos, no real-person faces, photoreal or hyper-real architectural and landscape focus.",
+    "aspect_ratio": "16:9",
+    "duration_hint_s": 4.0,
+    "style": "cinematic dark atmospheric documentary still, film grain, teal grade, haze",
+    "asset_path": null
+  },
+  {
+    "scene_id": "6258b65599b5_context_01",
+    "section": "context",
+    "prompt": "Aegean map with Antikythera marked. cinematic dark atmospheric documentary still, 16:9, cold teal and charcoal color grade, soft film grain, atmospheric haze, volumetric light, no readable modern logos, no real-person faces, photoreal or hyper-real architectural and landscape focus.",
+    "aspect_ratio": "16:9",
+    "duration_hint_s": 5.0,
+    "style": "cinematic dark atmospheric documentary still, film grain, teal grade, haze",
+    "asset_path": null
+  },
+  {
+    "scene_id": "6258b65599b5_context_02",
+    "section": "context",
+    "prompt": "museum gallery dim lighting, bronze fragments. cinematic dark atmospheric documentary still, 16:9, cold teal and charcoal color grade, soft film grain, atmospheric haze, volumetric light, no readable modern logos, no real-person faces, photoreal or hyper-real architectural and landscape focus.",
+    "aspect_ratio": "16:9",
+    "duration_hint_s": 5.0,
+    "style": "cinematic dark atmospheric documentary still, film grain, teal grade, haze",
+    "asset_path": null
+  },
+  {
+    "scene_id": "6258b65599b5_mystery_01",
+    "section": "mystery",
+    "prompt": "empty bronze workshop reconstruction. cinematic dark atmospheric documentary still, 16:9, cold teal and charcoal color grade, soft film grain, atmospheric haze, volumetric light, no readable modern logos, no real-person faces, photoreal or hyper-real architectural and landscape focus.",
+    "aspect_ratio": "16:9",
+    "duration_hint_s": 5.0,
+    "style": "cinematic dark atmospheric documentary still, film grain, teal grade, haze",
+    "asset_path": null
+  },
+  {
+    "scene_id": "6258b65599b5_mystery_02",
+    "section": "mystery",
+    "prompt": "timeline of classical inventions fading. cinematic dark atmospheric documentary still, 16:9, cold teal and charcoal color grade, soft film grain, atmospheric haze, volumetric light, no readable modern logos, no real-person faces, photoreal or hyper-real architectural and landscape focus.",
+    "aspect_ratio": "16:9",
+    "duration_hint_s": 5.0,
+    "style": "cinematic dark atmospheric documentary still, film grain, teal grade, haze",
+    "asset_path": null
+  },
+  {
+    "scene_id": "6258b65599b5_evidence_01",
+    "section": "evidence",
+    "prompt": "CT scan visualization of gears. cinematic dark atmospheric documentary still, 16:9, cold teal and charcoal color grade, soft film grain, atmospheric haze, volumetric light, no readable modern logos, no real-person faces, photoreal or hyper-real architectural and landscape focus.",
+    "aspect_ratio": "16:9",
+    "duration_hint_s": 5.0,
+    "style": "cinematic dark atmospheric documentary still, film grain, teal grade, haze",
+    "asset_path": null
+  },
+  {
+    "scene_id": "6258b65599b5_evidence_02",
+    "section": "evidence",
+    "prompt": "inscription close-up with soft light. cinematic dark atmospheric documentary still, 16:9, cold teal and charcoal color grade, soft film grain, atmospheric haze, volumetric light, no readable modern logos, no real-person faces, photoreal or hyper-real architectural and landscape focus.",
+    "aspect_ratio": "16:9",
+    "duration_hint_s": 5.0,
+    "style": "cinematic dark atmospheric documentary still, film grain, teal grade, haze",
+    "asset_path": null
+  },
+  {
+    "scene_id": "6258b65599b5_investigation_01",
+    "section": "investigation",
+    "prompt": "scholarly papers and diagrams montage. cinematic dark atmospheric documentary still, 16:9, cold teal and charcoal color grade, soft film grain, atmospheric haze, volumetric light, no readable modern logos, no real-person faces, photoreal or hyper-real architectural and landscape focus.",
+    "aspect_ratio": "16:9",
+    "duration_hint_s": 5.0,
+    "style": "cinematic dark atmospheric documentary still, film grain, teal grade, haze",
+    "asset_path": null
+  },
+  {
+    "scene_id": "6258b65599b5_investigation_02",
+    "section": "investigation",
+    "prompt": "armillary sphere silhouette. cinematic dark atmospheric documentary still, 16:9, cold teal and charcoal color grade, soft film grain, atmospheric haze, volumetric light, no readable modern logos, no real-person faces, photoreal or hyper-real architectural and landscape focus.",
+    "aspect_ratio": "16:9",
+    "duration_hint_s": 5.0,
+    "style": "cinematic dark atmospheric documentary still, film grain, teal grade, haze",
+    "asset_path": null
+  },
+  {
+    "scene_id": "6258b65599b5_turning_point_01",
+    "section": "turning_point",
+    "prompt": "X-ray to solid model transition. cinematic dark atmospheric documentary still, 16:9, cold teal and charcoal color grade, soft film grain, atmospheric haze, volumetric light, no readable modern logos, no real-person faces, photoreal or hyper-real architectural and landscape focus.",
+    "aspect_ratio": "16:9",
+    "duration_hint_s": 5.0,
+    "style": "cinematic dark atmospheric documentary still, film grain, teal grade, haze",
+    "asset_path": null
+  },
+  {
+    "scene_id": "6258b65599b5_turning_point_02",
+    "section": "turning_point",
+    "prompt": "gear animation slow spin. cinematic dark atmospheric documentary still, 16:9, cold teal and charcoal color grade, soft film grain, atmospheric haze, volumetric light, no readable modern logos, no real-person faces, photoreal or hyper-real architectural and landscape focus.",
+    "aspect_ratio": "16:9",
+    "duration_hint_s": 5.0,
+    "style": "cinematic dark atmospheric documentary still, film grain, teal grade, haze",
+    "asset_path": null
+  },
+  {
+    "scene_id": "6258b65599b5_synthesis_01",
+    "section": "synthesis",
+    "prompt": "device under museum glass, single spotlight. cinematic dark atmospheric documentary still, 16:9, cold teal and charcoal color grade, soft film grain, atmospheric haze, volumetric light, no readable modern logos, no real-person faces, photoreal or hyper-real architectural and landscape focus.",
+    "aspect_ratio": "16:9",
+    "duration_hint_s": 5.0,
+    "style": "cinematic dark atmospheric documentary still, film grain, teal grade, haze",
+    "asset_path": null
+  },
+  {
+    "scene_id": "6258b65599b5_synthesis_02",
+    "section": "synthesis",
+    "prompt": "Aegean horizon at dusk. cinematic dark atmospheric documentary still, 16:9, cold teal and charcoal color grade, soft film grain, atmospheric haze, volumetric light, no readable modern logos, no real-person faces, photoreal or hyper-real architectural and landscape focus.",
+    "aspect_ratio": "16:9",
+    "duration_hint_s": 5.0,
+    "style": "cinematic dark atmospheric documentary still, film grain, teal grade, haze",
+    "asset_path": null
+  },
+  {
+    "scene_id": "6258b65599b5_close_01",
+    "section": "close",
+    "prompt": "fade to dark teal end card with Aether Archive mark. cinematic dark atmospheric documentary still, 16:9, cold teal and charcoal color grade, soft film grain, atmospheric haze, volumetric light, no readable modern logos, no real-person faces, photoreal or hyper-real architectural and landscape focus.",
+    "aspect_ratio": "16:9",
+    "duration_hint_s": 5.0,
+    "style": "cinematic dark atmospheric documentary still, film grain, teal grade, haze",
+    "asset_path": null
+  }
+]

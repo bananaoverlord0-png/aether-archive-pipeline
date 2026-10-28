@@ -1,0 +1,30 @@
+{
+  "topic_id": "6258b65599b5",
+  "title": "The Antikythera Mechanism: Ancient Computer or Something Else?",
+  "opportunity_score": 0.6408,
+  "word_count": 653,
+  "estimated_minutes": 4.7,
+  "claims": 4,
+  "visual_scenes": 15,
+  "seo_titles": [
+    "The Antikythera Mechanism: Ancient Computer or Something Else?",
+    "What We Actually Know About The Antikythera Mechanism",
+    "The Evidence Behind The Antikythera Mechanism"
+  ],
+  "quality": {
+    "passed": false,
+    "issues": [
+      "Script too short: 653 words",
+      "Missing narration audio",
+      "Missing rendered video"
+    ]
+  },
+  "artifacts": {
+    "dossier": "data/research/6258b65599b5_dossier.json",
+    "script": "data/scripts/6258b65599b5_script.json",
+    "narration": "data/scripts/6258b65599b5_narration.txt",
+    "audio_manifest": "data/audio/6258b65599b5_manifest.json",
+    "visuals": "data/visuals/6258b65599b5_visual_plan.json",
+    "seo": "data/metadata/6258b65599b5_seo.json"
+  }
+}

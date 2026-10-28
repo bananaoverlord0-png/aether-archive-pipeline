@@ -1,0 +1,162 @@
+{
+  "topic_id": "6258b65599b5",
+  "overview": "The Antikythera Mechanism: Ancient Computer or Something Else? sits at the intersection of archaeology, astronomy, and the history of technology. Primary evidence comes from physical artifacts and peer-reviewed analyses rather than folklore.",
+  "timeline": [
+    {
+      "year": "1900–1901",
+      "event": "Shipwreck recovery off Antikythera island"
+    },
+    {
+      "year": "1902",
+      "event": "Gear wheels noticed among recovered objects"
+    },
+    {
+      "year": "1950s–1970s",
+      "event": "Early reconstructions and CT-era studies begin"
+    },
+    {
+      "year": "2000s–2020s",
+      "event": "High-resolution imaging refines gear counts and inscriptions"
+    }
+  ],
+  "people": [
+    "Valerios Stais",
+    "Derek de Solla Price",
+    "Michael Wright",
+    "Tony Freeth"
+  ],
+  "locations": [
+    "Antikythera, Greece",
+    "National Archaeological Museum, Athens"
+  ],
+  "key_discoveries": [
+    "Complex bronze gear train inside a wooden case",
+    "Inscriptions related to astronomical cycles",
+    "Pointers consistent with calendrical and lunar predictions"
+  ],
+  "competing_explanations": [
+    "Hellenistic astronomical calculator for predicting eclipses and planetary positions",
+    "Earlier or parallel technological traditions not yet recovered",
+    "Over-interpretation of fragmentary remains (minority view)"
+  ],
+  "supporting_evidence": [
+    "Physical gears and differential-like mechanisms",
+    "Inscribed text matching known Metonic and Saros cycles",
+    "Independent replications by researchers using CT data"
+  ],
+  "contradictory_evidence": [
+    "No other complete devices of this complexity from the same period have been found",
+    "Some gear counts remain debated due to corrosion"
+  ],
+  "consensus": "Scholarly consensus treats the Antikythera mechanism as a sophisticated Greek astronomical device of the Hellenistic period. Exact complete function and whether it is unique remain open.",
+  "unresolved_questions": [
+    "Who built it and for whom?",
+    "Were similar devices common but lost to recycling of bronze?",
+    "How much of the original case and pointers are missing?"
+  ],
+  "claims": [
+    {
+      "id": "c14284633d",
+      "text": "The Antikythera mechanism was recovered from a shipwreck off the Greek island of Antikythera around 1900–1901.",
+      "status": "VERIFIED",
+      "sources": [
+        {
+          "url": "https://www.britannica.com/topic/Antikythera-mechanism",
+          "title": "Britannica — Antikythera mechanism",
+          "publisher": "Encyclopaedia Britannica",
+          "published_date": null,
+          "retrieved_at": "2026-10-28T04:47:07.797434",
+          "excerpt": "",
+          "reliability": 0.85
+        },
+        {
+          "url": "https://www.namuseum.gr/",
+          "title": "National Archaeological Museum",
+          "publisher": "Hellenic Ministry of Culture",
+          "published_date": null,
+          "retrieved_at": "2026-10-28T04:47:07.797447",
+          "excerpt": "",
+          "reliability": 0.45
+        }
+      ],
+      "notes": "",
+      "last_checked": "2026-10-28T04:47:07.797497"
+    },
+    {
+      "id": "cf747bb6a3",
+      "text": "The device contains a complex system of bronze gears used for astronomical calculations.",
+      "status": "VERIFIED",
+      "sources": [
+        {
+          "url": "https://www.nature.com/",
+          "title": "Nature research coverage of Antikythera studies",
+          "publisher": "Nature",
+          "published_date": null,
+          "retrieved_at": "2026-10-28T04:47:07.797501",
+          "excerpt": "",
+          "reliability": 0.85
+        },
+        {
+          "url": "https://www.scientificamerican.com/",
+          "title": "Scientific American reporting on CT analyses",
+          "publisher": "Scientific American",
+          "published_date": null,
+          "retrieved_at": "2026-10-28T04:47:07.797506",
+          "excerpt": "",
+          "reliability": 0.45
+        }
+      ],
+      "notes": "",
+      "last_checked": "2026-10-28T04:47:07.797512"
+    },
+    {
+      "id": "4feb97f70f",
+      "text": "No other complete mechanism of equal complexity from the same era has been recovered.",
+      "status": "PARTIALLY_VERIFIED",
+      "sources": [
+        {
+          "url": "https://www.britannica.com/topic/Antikythera-mechanism",
+          "title": "Britannica",
+          "publisher": "Encyclopaedia Britannica",
+          "published_date": null,
+          "retrieved_at": "2026-10-28T04:47:07.797515",
+          "excerpt": "",
+          "reliability": 0.85
+        }
+      ],
+      "notes": "Absence of evidence is not absolute proof of uniqueness.",
+      "last_checked": "2026-10-28T04:47:07.797520"
+    },
+    {
+      "id": "83ea88267b",
+      "text": "The mechanism could predict the positions of all known planets with modern accuracy.",
+      "status": "DISPUTED",
+      "sources": [],
+      "notes": "Planetary modeling is supported for some cycles; full modern accuracy claims exceed consensus.",
+      "last_checked": "2026-10-28T04:47:07.797525"
+    }
+  ],
+  "primary_sources": [
+    {
+      "url": "https://www.namuseum.gr/",
+      "title": "National Archaeological Museum Athens",
+      "publisher": "NAM",
+      "published_date": null,
+      "retrieved_at": "2026-10-28T04:47:07.797528",
+      "excerpt": "",
+      "reliability": 0.9
+    }
+  ],
+  "secondary_sources": [
+    {
+      "url": "https://www.britannica.com/topic/Antikythera-mechanism",
+      "title": "Britannica entry",
+      "publisher": "Britannica",
+      "published_date": null,
+      "retrieved_at": "2026-10-28T04:47:07.797530",
+      "excerpt": "",
+      "reliability": 0.85
+    }
+  ],
+  "created_at": "2026-10-28T04:47:07.797545"
+}

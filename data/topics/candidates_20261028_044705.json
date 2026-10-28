@@ -1,0 +1,312 @@
+[
+  {
+    "id": "6258b65599b5",
+    "title": "The Antikythera Mechanism: Ancient Computer or Something Else?",
+    "summary": "2,000-year-old geared device recovered from a shipwreck",
+    "keywords": [],
+    "opportunity_score": 0.6408,
+    "score_breakdown": {
+      "storytelling_potential": 0.96,
+      "evidence_availability": 0.5,
+      "competition": 0.45,
+      "audience_interest": 0.4,
+      "click_appeal": 0.6,
+      "production_cost": 0.5,
+      "copyright_safety": 0.9,
+      "misinfo_safety": 0.8,
+      "channel_relevance": 0.9
+    },
+    "estimated_search_interest": "unknown",
+    "competition_level": "unknown",
+    "storytelling_potential": 0.96,
+    "evidence_availability": 0.5,
+    "production_cost": 0.5,
+    "copyright_risk": 0.1,
+    "misinformation_risk": 0.2,
+    "status": "candidate",
+    "created_at": "2026-10-28T04:47:05.845629",
+    "metadata": {
+      "signals": {},
+      "scored_at": "2026-10-28T04:47:05.845598"
+    }
+  },
+  {
+    "id": "56d8353631d4",
+    "title": "Yonaguni Monument: Natural Formation or Submerged City?",
+    "summary": "Underwater rock formations off Japan with geometric features",
+    "keywords": [],
+    "opportunity_score": 0.6012,
+    "score_breakdown": {
+      "storytelling_potential": 0.74,
+      "evidence_availability": 0.5,
+      "competition": 0.45,
+      "audience_interest": 0.4,
+      "click_appeal": 0.6,
+      "production_cost": 0.5,
+      "copyright_safety": 0.9,
+      "misinfo_safety": 0.8,
+      "channel_relevance": 0.9
+    },
+    "estimated_search_interest": "unknown",
+    "competition_level": "unknown",
+    "storytelling_potential": 0.74,
+    "evidence_availability": 0.5,
+    "production_cost": 0.5,
+    "copyright_risk": 0.1,
+    "misinformation_risk": 0.2,
+    "status": "candidate",
+    "created_at": "2026-10-28T04:47:05.845666",
+    "metadata": {
+      "signals": {},
+      "scored_at": "2026-10-28T04:47:05.845655"
+    }
+  },
+  {
+    "id": "831261bea62d",
+    "title": "The Voynich Manuscript: Unreadable Code or Elaborate Hoax?",
+    "summary": "15th-century illustrated codex in unknown script",
+    "keywords": [],
+    "opportunity_score": 0.5948,
+    "score_breakdown": {
+      "storytelling_potential": 0.76,
+      "evidence_availability": 0.5,
+      "competition": 0.45,
+      "audience_interest": 0.4,
+      "click_appeal": 0.6,
+      "production_cost": 0.5,
+      "copyright_safety": 0.9,
+      "misinfo_safety": 0.8,
+      "channel_relevance": 0.7
+    },
+    "estimated_search_interest": "unknown",
+    "competition_level": "unknown",
+    "storytelling_potential": 0.76,
+    "evidence_availability": 0.5,
+    "production_cost": 0.5,
+    "copyright_risk": 0.1,
+    "misinformation_risk": 0.2,
+    "status": "candidate",
+    "created_at": "2026-10-28T04:47:05.845695",
+    "metadata": {
+      "signals": {},
+      "scored_at": "2026-10-28T04:47:05.845690"
+    }
+  },
+  {
+    "id": "0699d08ea129",
+    "title": "Gobekli Tepe: Why Was the World's Oldest Temple Buried?",
+    "summary": "11,000-year-old megalithic complex in Turkey",
+    "keywords": [],
+    "opportunity_score": 0.5984,
+    "score_breakdown": {
+      "storytelling_potential": 0.78,
+      "evidence_availability": 0.5,
+      "competition": 0.45,
+      "audience_interest": 0.4,
+      "click_appeal": 0.6,
+      "production_cost": 0.5,
+      "copyright_safety": 0.9,
+      "misinfo_safety": 0.8,
+      "channel_relevance": 0.7
+    },
+    "estimated_search_interest": "unknown",
+    "competition_level": "unknown",
+    "storytelling_potential": 0.78,
+    "evidence_availability": 0.5,
+    "production_cost": 0.5,
+    "copyright_risk": 0.1,
+    "misinformation_risk": 0.2,
+    "status": "candidate",
+    "created_at": "2026-10-28T04:47:05.845719",
+    "metadata": {
+      "signals": {},
+      "scored_at": "2026-10-28T04:47:05.845715"
+    }
+  },
+  {
+    "id": "03224fedc159",
+    "title": "The Dyatlov Pass Incident: What the Evidence Actually Shows",
+    "summary": "1959 Ural Mountains deaths with competing scientific theories",
+    "keywords": [],
+    "opportunity_score": 0.5574,
+    "score_breakdown": {
+      "storytelling_potential": 0.58,
+      "evidence_availability": 0.5,
+      "competition": 0.45,
+      "audience_interest": 0.4,
+      "click_appeal": 0.45,
+      "production_cost": 0.5,
+      "copyright_safety": 0.9,
+      "misinfo_safety": 0.8,
+      "channel_relevance": 0.9
+    },
+    "estimated_search_interest": "unknown",
+    "competition_level": "unknown",
+    "storytelling_potential": 0.5800000000000001,
+    "evidence_availability": 0.5,
+    "production_cost": 0.5,
+    "copyright_risk": 0.1,
+    "misinformation_risk": 0.2,
+    "status": "candidate",
+    "created_at": "2026-10-28T04:47:05.845744",
+    "metadata": {
+      "signals": {},
+      "scored_at": "2026-10-28T04:47:05.845741"
+    }
+  },
+  {
+    "id": "d154f3099c78",
+    "title": "Piri Reis Map: Accurate Ancient Cartography or Coincidence?",
+    "summary": "1513 map showing South American coastline details",
+    "keywords": [],
+    "opportunity_score": 0.6408,
+    "score_breakdown": {
+      "storytelling_potential": 0.96,
+      "evidence_availability": 0.5,
+      "competition": 0.45,
+      "audience_interest": 0.4,
+      "click_appeal": 0.6,
+      "production_cost": 0.5,
+      "copyright_safety": 0.9,
+      "misinfo_safety": 0.8,
+      "channel_relevance": 0.9
+    },
+    "estimated_search_interest": "unknown",
+    "competition_level": "unknown",
+    "storytelling_potential": 0.96,
+    "evidence_availability": 0.5,
+    "production_cost": 0.5,
+    "copyright_risk": 0.1,
+    "misinformation_risk": 0.2,
+    "status": "candidate",
+    "created_at": "2026-10-28T04:47:05.845761",
+    "metadata": {
+      "signals": {},
+      "scored_at": "2026-10-28T04:47:05.845757"
+    }
+  },
+  {
+    "id": "de66b34cf30b",
+    "title": "The Tunguska Event: What Exploded Over Siberia in 1908?",
+    "summary": "Airburst that flattened 2,000 km\u00b2 of forest",
+    "keywords": [],
+    "opportunity_score": 0.5984,
+    "score_breakdown": {
+      "storytelling_potential": 0.78,
+      "evidence_availability": 0.5,
+      "competition": 0.45,
+      "audience_interest": 0.4,
+      "click_appeal": 0.6,
+      "production_cost": 0.5,
+      "copyright_safety": 0.9,
+      "misinfo_safety": 0.8,
+      "channel_relevance": 0.7
+    },
+    "estimated_search_interest": "unknown",
+    "competition_level": "unknown",
+    "storytelling_potential": 0.78,
+    "evidence_availability": 0.5,
+    "production_cost": 0.5,
+    "copyright_risk": 0.1,
+    "misinformation_risk": 0.2,
+    "status": "candidate",
+    "created_at": "2026-10-28T04:47:05.845782",
+    "metadata": {
+      "signals": {},
+      "scored_at": "2026-10-28T04:47:05.845778"
+    }
+  },
+  {
+    "id": "52d2acfb8c4f",
+    "title": "Baigong Pipes: Natural Mineralization or Prehistoric Artifact?",
+    "summary": "Mysterious pipe-like structures in Qinghai, China",
+    "keywords": [],
+    "opportunity_score": 0.5912,
+    "score_breakdown": {
+      "storytelling_potential": 0.74,
+      "evidence_availability": 0.5,
+      "competition": 0.45,
+      "audience_interest": 0.4,
+      "click_appeal": 0.6,
+      "production_cost": 0.5,
+      "copyright_safety": 0.9,
+      "misinfo_safety": 0.8,
+      "channel_relevance": 0.7
+    },
+    "estimated_search_interest": "unknown",
+    "competition_level": "unknown",
+    "storytelling_potential": 0.74,
+    "evidence_availability": 0.5,
+    "production_cost": 0.5,
+    "copyright_risk": 0.1,
+    "misinformation_risk": 0.2,
+    "status": "candidate",
+    "created_at": "2026-10-28T04:47:05.845805",
+    "metadata": {
+      "signals": {},
+      "scored_at": "2026-10-28T04:47:05.845801"
+    }
+  },
+  {
+    "id": "b013450406b1",
+    "title": "The Taos Hum: Documented Phenomenon Without Consensus Cause",
+    "summary": "Low-frequency sound reported by residents of Taos, NM",
+    "keywords": [],
+    "opportunity_score": 0.5538,
+    "score_breakdown": {
+      "storytelling_potential": 0.56,
+      "evidence_availability": 0.5,
+      "competition": 0.45,
+      "audience_interest": 0.4,
+      "click_appeal": 0.45,
+      "production_cost": 0.5,
+      "copyright_safety": 0.9,
+      "misinfo_safety": 0.8,
+      "channel_relevance": 0.9
+    },
+    "estimated_search_interest": "unknown",
+    "competition_level": "unknown",
+    "storytelling_potential": 0.56,
+    "evidence_availability": 0.5,
+    "production_cost": 0.5,
+    "copyright_risk": 0.1,
+    "misinformation_risk": 0.2,
+    "status": "candidate",
+    "created_at": "2026-10-28T04:47:05.845822",
+    "metadata": {
+      "signals": {},
+      "scored_at": "2026-10-28T04:47:05.845819"
+    }
+  },
+  {
+    "id": "3ec86a653138",
+    "title": "Nazca Lines: Astronomical Calendar, Water Rituals, or Something Else?",
+    "summary": "Massive geoglyphs in Peruvian desert",
+    "keywords": [],
+    "opportunity_score": 0.5984,
+    "score_breakdown": {
+      "storytelling_potential": 0.78,
+      "evidence_availability": 0.5,
+      "competition": 0.45,
+      "audience_interest": 0.4,
+      "click_appeal": 0.6,
+      "production_cost": 0.5,
+      "copyright_safety": 0.9,
+      "misinfo_safety": 0.8,
+      "channel_relevance": 0.7
+    },
+    "estimated_search_interest": "unknown",
+    "competition_level": "unknown",
+    "storytelling_potential": 0.78,
+    "evidence_availability": 0.5,
+    "production_cost": 0.5,
+    "copyright_risk": 0.1,
+    "misinformation_risk": 0.2,
+    "status": "candidate",
+    "created_at": "2026-10-28T04:47:05.845845",
+    "metadata": {
+      "signals": {},
+      "scored_at": "2026-10-28T04:47:05.845842"
+    }
+  }
+]

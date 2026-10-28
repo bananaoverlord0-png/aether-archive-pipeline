@@ -1,0 +1,7 @@
+file '../visuals/stills/01_wreck.jpg'
+duration 75.43333333333334
+file '../visuals/stills/02_gears.jpg'
+duration 75.43333333333334
+file '../visuals/stills/03_thumb.jpg'
+duration 75.43333333333334
+file '../visuals/stills/03_thumb.jpg'
